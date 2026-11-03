@@ -1,5 +1,7 @@
 # Asset Vault
 
+This project uses GPT-6
+
 Asset Vault is a Windows desktop library for organizing assets from multiple Unity projects. It uses Electron, React, Three.js, and a local JSON catalog stored in Electron's application-data folder.
 
 ## Features
